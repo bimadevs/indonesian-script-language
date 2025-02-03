@@ -8,6 +8,7 @@ This project is just for fun and to fill my free time. so please try it and have
 indonesia script language adalah sebuah bahasa pemrograman baru, yang modern dan mudah di pelajari karena menggunakan bahasa indonesia. untuk menggunakan nya pun sederhana tidak perlu pengalaman coding 
 
 ## Instalation & Run
+PASTIKAN KAMU SUDAH MENGINSTALL NODE JS
 
 Install from npm
 ```bash
