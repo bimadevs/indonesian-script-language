@@ -71,7 +71,7 @@ Assign variable
 sementara foo adalah "hello world"
 // let foo = "hello world"
 
-seriously foo adalah 123
+sebenarnya foo adalah 123
 // const foo = 123
 ```
 
