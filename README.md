@@ -87,10 +87,10 @@ yang mana foo adalah "hello world 2"
 sementara foo adalah benar
 // let foo = true
 
-sementara foo adalah worth it
+sementara foo adalah benar
 // let foo = true
 
-sementara foo adalah negative vibes
+sementara foo adalah salah
 // let foo = false
 ```
 
