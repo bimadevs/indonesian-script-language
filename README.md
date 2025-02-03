@@ -188,7 +188,7 @@ skip
 fungsi my_story
     sementara umur adalah 21
     tampilkan "Umur lu " + umur
-thats it sih
+selesai
 
 call my_story
 
@@ -196,7 +196,7 @@ fungsi fungsi_param_banyak a b c
     tampilkan "a: " + a
     tampilkan "b: " + b
     tampilkan "c: " + c
-thats it sih
+selesai
 
 call fungsi_param_banyak 3 4 5
 ```
@@ -206,7 +206,7 @@ call fungsi_param_banyak 3 4 5
 asinksi fungsi my_story
     sementara umur adalah 21
     tampilkan "Umur lu " + umur
-thats it sih
+selesai
 
 call my_story
 
@@ -214,7 +214,7 @@ fungsi fungsi_param_banyak a b c
     tampilkan "a: " + a
     tampilkan "b: " + b
     tampilkan "c: " + c
-thats it sih
+selesai
 
 call fungsi_param_banyak 3 4 5
 ```
